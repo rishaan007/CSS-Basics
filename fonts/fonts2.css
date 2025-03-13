@@ -1,0 +1,13 @@
+@font-face {
+    src: url(OpenSans-VariableFont_wdth,wght.ttf);
+    font-family:OpenSans ;
+}
+h1{
+    font-family: OpenSans , Geneva, Tahoma, sans-serif;
+}
+p{
+    font-family: 'Roboto&display', 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode' ;
+    font-size: 10px; 
+    font-weight: bold;
+    font-style: italic;
+}
