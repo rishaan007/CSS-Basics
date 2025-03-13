@@ -1,0 +1,14 @@
+h1{
+    border-style: solid;
+    border-width: 5px;
+    border-color:black;
+    border-radius: 20px;
+}
+p{
+    border-bottom: 3px solid red;
+    border-top: 3px solid yellow;
+    border-left: 3px dotted orange;
+    border-right: 3px dotted green;
+
+    border-radius: 10px;
+}

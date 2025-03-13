@@ -1,0 +1,15 @@
+body{
+    background-color: black;
+}
+h1{
+    color: white;
+}
+#p1{
+    color: greenyellow;
+}
+#p3{
+    color: aqua;
+}
+.even{
+    color: turquoise;
+}
